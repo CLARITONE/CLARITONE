@@ -22,6 +22,15 @@
     so click on the minecraft server, do /register <your password to log into your server account><the same thing again>, 
     then your in
   </p>
+  <i>
+    <b>
+      <p>Replit website</p>
+    </b>
+  </i>
+  <p>there is another part of the website that is the main site to supporting Village Smp, so make sure
+  to join that one, heres the link:
+  <a href="https://f335ffe3-4376-425a-8887-1f7092740ad6-00-9y6prn2ma8ju.janeway.replit.dev/">Village Smp replit website</a>
+  </p>
 
 
 
